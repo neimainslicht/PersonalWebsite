@@ -62,8 +62,8 @@ p
 .bottom-cloud
 {
     position: absolute;
-    left: 4.063rem;
-    bottom: 300px;
+    left: 2rem;
+    bottom: 50px;
 }
 .bottom-container
 {
@@ -155,7 +155,7 @@ p
 {
     position:absolute;
     
-    right: 4.063rem;
+    right: 2rem;
     top:50px;
 
 
